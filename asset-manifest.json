@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Task-Firebase/static/css/main.2b87939c.css",
+    "main.js": "/Task-Firebase/static/js/main.74dae217.js",
+    "static/js/787.015dea87.chunk.js": "/Task-Firebase/static/js/787.015dea87.chunk.js",
+    "index.html": "/Task-Firebase/index.html",
+    "main.2b87939c.css.map": "/Task-Firebase/static/css/main.2b87939c.css.map",
+    "main.74dae217.js.map": "/Task-Firebase/static/js/main.74dae217.js.map",
+    "787.015dea87.chunk.js.map": "/Task-Firebase/static/js/787.015dea87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b87939c.css",
+    "static/js/main.74dae217.js"
+  ]
+}
