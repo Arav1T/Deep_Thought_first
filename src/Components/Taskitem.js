@@ -4,7 +4,7 @@ export default function Taskitem(props) {
     console.log(props.item,props.ky)
     const OnDelete =()=>{
       props.Delete(props.ky)
-      console.log(props.ky)
+      // console.log(props.ky)
     }
   return (
     <div className='flex ml-6' >
